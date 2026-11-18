@@ -213,7 +213,7 @@ a.location, a.location:visited, a.location:hover, a.location:active {
   min-width: 0;
 }
 .location strong { font-size: clamp(13px, 2svh, 16px); font-weight: 600; color: var(--ink); text-decoration: none; }
-.location span { font-size: clamp(12px, 1.9svh, 15px); color: var(--muted); text-decoration: none; }
+.location span { font-size: clamp(11px, 1.6svh, 13px); line-height: 1.3; color: var(--muted); text-decoration: none; }
 
 @media (max-height: 700px) {
   .panel { padding-top: 2svh; padding-bottom: 2.4svh; border-radius: 28px; }
